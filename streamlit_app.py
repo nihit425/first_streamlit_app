@@ -8,3 +8,6 @@ streamlit.text('🥗 Spinach Sandwith with Soup')
 streamlit.text('🐔 Halfried with Boiled Eggs')
 streamlit.text('🥑 Avocado Toast')
 streamlit.text('🍞 Bombay Cheese Sandwich')
+
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
